@@ -35,5 +35,20 @@ Provides a detailed view of the current accounts receivable position, including 
 
 Focuses on operational performance by providing visibility into production, resolution, and overall work completion.
 
+## Tools & Skills
 
+* Power BI
+   * Dashboard development
+   * DAX measures
+   * Data modeling
+   * Power Query
+   * Data visualization
+* Microsoft Excel
+* Figma
+* Healthcare RCM concepts
+* KPI and operational reporting
+* Data analysis and business reporting
+
+* ## Dashboard Report
+[View / Download the Complete Dashboard PDF](Report%20pdf/Healthcare%20RCM%20Analytics%20Dashboard.pdf)
 
